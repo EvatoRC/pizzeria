@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Imagen provisional de bebida (vector). Ver README.md (sección Imágenes) para usar fotos reales. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp" android:height="150dp"
+    android:viewportWidth="200" android:viewportHeight="150">
+    <path android:fillColor="#1C1B1B" android:pathData="M92,8 L108,8 L108,22 L92,22z" />
+    <path android:fillColor="#5C403E" android:pathData="M92,22 L108,22 Q124,40 124,58 L124,132 Q124,142 114,142 L86,142 Q76,142 76,132 L76,58 Q76,40 92,22z" />
+    <path android:fillColor="#CD212A" android:pathData="M76,70 L124,70 L124,104 L76,104z" />
+    <path android:fillColor="#FFFFFF" android:pathData="M86,82 L114,82 L114,92 L86,92z" />
+    <path android:fillColor="#33FFFFFF" android:pathData="M82,48 Q84,36 92,28 L94,30 Q88,40 86,52z" />
+</vector>
